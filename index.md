@@ -98,7 +98,7 @@ The SQuaRE team in the Data Services group operates the Rubin Science Platform a
 * Contributors need to keep their codebases up to date, including up-revving their dependencies in a timely manner, and/or processing the PRs from our automated dependency manager as appropriate.
 * Services may be asked to instrument for run-time metrics.
 * A contributor may be asked to send a representative to SQuaRE's "Patch Thursday" call if the need arises.
-* Any incompatibilities between contributed code and the RSP services and infrastructure needs to be resolved in a timely manner. This may require significant changes such as upgrading to a new major version of Python.
+* Any incompatibilities between contributed code and the RSP services and infrastructure must be resolved in a timely manner. This may require significant changes such as upgrading to a new major version of Python.
 * Services must pass scale-testing benchmarks
 * Contributors must attend to questions on their contribution in the [Community Forum](https://community.lsst.org) in a prompt and courteous manner.
 * Contributors must attend any monitoring of their service (if applicable) and/or respond to service quality alerts they are tagged on
