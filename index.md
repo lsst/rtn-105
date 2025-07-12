@@ -80,7 +80,7 @@ As part of any delivery (software, services or data), the contributor is expecte
 * identify one or more GitHub repositories containing all code involved licensed under a major open source license
 * engage in a discussion on how assets (eg. files) are best hosted (S3, POSIX etc)
 * work with Data Services to minimize POSIX usage to the extent possible
-* supply contact information for a minimum of two people who assume the on-going responsibilities
+* supply contact information for a minimum of two people who assume the on-going support responsibilities
 * work with the Data Services Lead on a Delivery Note (a technote capturing what code, date etc is part  of the delivery)
 
 When the delivery is complete:
