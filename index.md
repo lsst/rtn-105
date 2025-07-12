@@ -59,7 +59,7 @@ The signatory will confirm that:
 * They confirm that the contributor(s) are authorized, able and willing to fulfill the on-going responsibilities outlined in this document
 * They are aware that the capability may be withdrawn under circumstances described in this document
 
-This formality helps mitigate the risk of enthusiastic but under-resourced contributions.
+This formality helps mitigate the risks associated with pertinent but under-resourced contributions.```
 
 ## Post-approval process
 
