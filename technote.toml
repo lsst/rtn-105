@@ -21,3 +21,13 @@ orcid = "https://orcid.org/0000-0002-8333-7615"
 name = "Vera C. Rubin Observatory Project Office"
 internal_id = "RubinObs"
 address = "Tucson"
+
+[[technote.authors]]
+name.given = "Leanne"
+name.family = "Guy"
+internal_id = "guylp"
+orcid = "https://orcid.org/0000-0003-0800-8755"
+[[technote.authors.affiliations]]
+name = "Vera C. Rubin Observatory Project Office"
+internal_id = "RubinObs"
+address = "Tucson"
