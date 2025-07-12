@@ -1,15 +1,11 @@
 # Contributing capabilities to the Rubin Science Platform
 
 ```{abstract}
-The Rubin Science Platform is a coherent ecosystem of integrated services operated (and in most cases developed) by the Data Services division of Rubin Data Management.
+The Rubin Science Platform is a coherent ecosystem of integrated services operated (and in most cases developed) by the Data Services group of Rubin Data Management.
 
 It is possible for second-party (wider Rubin, beyond Data Services) and third-party (external groups) to contribute capabilities for the benefit of all Rubin Science Platform users.
 
 This document outlines the policies and process for such contributions specifically as it relates to Rubin's flagship deployment for data rights holders at data.lsst.cloud
-```
-
-```{note}
-This document is correct but incomplete.
 ```
 
 ## Context
@@ -18,7 +14,7 @@ The Rubin Science Platform offers an opportunity to grow the capabilities it off
 
 However, while it is technically possible (and may even be easy) to add to the capabilities of the Rubin Science Platform in this way, there is a tension between the benefits of such additions and:
 
-* increasing the operational burden on the Data Services division
+* increasing the operational burden on the Data Services group
 * increasing user support burden on the Community Science Team
 * maintaining a high level of user experience
 * additional impact on available resources
@@ -59,7 +55,7 @@ The signatory will confirm that:
 * They confirm that the contributor(s) are authorized, able and willing to fulfill the on-going responsibilities outlined in this document
 * They are aware that the capability may be withdrawn under circumstances described in this document
 
-This formality helps mitigate the risks associated with pertinent but under-resourced contributions.```
+This formality helps mitigate the risks associated with pertinent but under-resourced contributions.
 
 ## Post-approval process
 
